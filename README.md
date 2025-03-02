@@ -55,8 +55,7 @@ The app fetches news articles using **NewsAPI**.
 * Uses BuildConfig.NEWS_API_KEY instead of hardcoding.
 *  Ensures API key security using gradle.properties.
 
-## How It Works?
-Feature	How it Works?
+## Feature How It Works?
 * Fetch News	Fetches news using Retrofit from API
 * Display News	Shows articles in a LazyColumn using Jetpack Compose
 * Save Article	Saves articles to Room Database
