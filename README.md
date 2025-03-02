@@ -1,4 +1,4 @@
-### A modern **Android News App** built using **Jetpack Compose, MVVM, and Hilt**, allowing users to fetch, read, and save news articles.
+## A modern **Android News App** built using **Jetpack Compose, MVVM, and Hilt**, allowing users to fetch, read, save and share news articles.
 
 ---
 
