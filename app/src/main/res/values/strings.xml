@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">News</string>
+    <string name="default_url" tools:ignore="TypographyDashes">https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98</string>
+    <string name="no_title">No Title Available</string>
+    <string name="no_description">No Description Available</string>
+    <string name="article_saved">Article Saved!</string>
+</resources>
