@@ -66,3 +66,6 @@ The app fetches news articles using **NewsAPI**.
 
 ## App Demo
 * Link: https://drive.google.com/file/d/19vqCF-YW2tz67iwrc8-xeaLDZblfnu2t/view
+
+## APK Link
+* Link: https://drive.google.com/file/d/1FYhGfgJXtO2dRIZPVv4w3XwnRBw0S4vu/view?usp=sharing
